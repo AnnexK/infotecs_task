@@ -1,0 +1,7 @@
+dotenv
+Include
+Lib
+Scripts
+pyvenv.cfg
+__pycache__
+.mypy_cache
